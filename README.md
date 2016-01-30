@@ -1,7 +1,7 @@
 # Hangman-c
 
 ## A simple Hangman game written in C
-
+<!-- language: lang-none -->
 #### +---------------------------------------+
 #### |  _____        HangMan V1.0       |
 #### |  I   |                                |
@@ -12,7 +12,7 @@
 #### | _I_____   If you like it: fork it!    |
 #### +---------------------------------------+
 
-
+		
 
 ##Installation (Quick and Simple!)
 
