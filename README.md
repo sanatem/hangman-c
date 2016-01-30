@@ -2,15 +2,15 @@
 
 ## A simple Hangman game written in C
 
-+---------------------------------------+
-|  _____        HangMan V1.0       |
-|  I   |                                |
-|  I   O        by Sanatem         |
-|  I  /|\      January 29th, 2016       |
-|  I   |                                |
-|  I  /^\   Please enjoy it  !     |
-| _I_____   If you like it: fork it!    |
-+---------------------------------------+
+#### +---------------------------------------+
+#### |  _____        HangMan V1.0       |
+#### |  I   |                                |
+#### |  I   O        by Sanatem         |
+#### |  I  /|\      January 29th, 2016       |
+#### |  I   |                                |
+#### |  I  /^\   Please enjoy it  !     |
+#### | _I_____   If you like it: fork it!    |
+#### +---------------------------------------+
 
 
 
@@ -23,7 +23,7 @@
 
 	gcc hangman.c -o hangman.exe 
 
-### 3. Enjoy!
+### 3. Enjoy it! :+1:
 
 
 ##If you like it , fork it !
