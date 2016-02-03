@@ -12,6 +12,7 @@
 */
 
 #include <stdio.h>
+#include <unistd.h>
 
 
 int level(int lifes){
@@ -126,7 +127,7 @@ int left(char challenge[],int word_size){
 
 
 int clear(){
-	int count=10;
+	int count=40;
 	int i;
 	for (i = 0; i < count; ++i)
 	{
